@@ -1,0 +1,34 @@
+.demo-table-expand {
+    font-size: 0;
+}
+
+.demo-table-expand label {
+    text-align: center;
+    width: 90px;
+    color: #99a9bf;
+}
+
+.demo-table-expand .el-form-item {
+    text-align: center;
+    margin-right: 0;
+    margin-bottom: 0;
+    width: 25%;
+}
+
+.el-form--inline-icon {
+    margin-left: 5px;
+    display: flex;
+    font-size: 16px;
+}
+
+.el-form--inline-icon > .el-icon {
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+.item {
+    margin-left: 50px;
+    margin-bottom: 0;
+    width: 20%;
+
+}

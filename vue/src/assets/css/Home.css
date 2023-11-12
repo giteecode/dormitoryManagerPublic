@@ -1,0 +1,79 @@
+.wv-lt-refresh {
+    display: none;
+}
+
+.topInfo {
+    margin: 0 auto;
+}
+
+.el-colDiv {
+    margin: 20px auto;
+    max-width: 340px;
+    min-width: 200px;
+    overflow: hidden;
+    height: 115px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    padding-left: 15px;
+    padding-top: 15px;
+    position: relative;
+}
+
+.nowDiv {
+    width: 38px;
+    height: 19px;
+    position: absolute;
+    right: 5%;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+}
+
+.digital {
+    font-size: 25px;
+    line-height: normal;
+    margin-left: 2px;
+}
+
+.title {
+    font-size: 18px;
+}
+
+.last-span {
+    font-size: 13px;
+}
+
+#stuNumDiv {
+    background-color: #2e4057;
+}
+
+#ssv1-main-text {
+    background-color: #1398ff;
+}
+
+#haveRoomDiv {
+    background-color: #1398ff;
+}
+
+#ssv2-main-text {
+    background-color: #2e4057;
+}
+
+#repairNum {
+    background-color: #008789;
+}
+
+#ssv3-main-text {
+    background-color: #ffb400;
+}
+
+#emptyRoom {
+    background-color: #ffb400;
+}
+
+#ssv4-main-text {
+    background-color: #008789;
+}
